@@ -1,7 +1,7 @@
 package school.mjc.stage0.conditions.finalTask;
 
 
-import base.BaseIOTest;
+import school.mjc.stage0.base.BaseIOTest;;
 import org.junit.jupiter.api.Test;
 
 class TriangleSidesValidatorTest extends BaseIOTest {
