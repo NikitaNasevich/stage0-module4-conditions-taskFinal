@@ -1,7 +1,7 @@
 package school.mjc.stage0.conditions.finalTask;
 
-import school.mjc.stage0.base.BaseIOTest;
 import org.junit.jupiter.api.Test;
+import school.mjc.stage0.base.BaseIOTest;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,7 +10,7 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class IntegerDividerTest extends BaseIOTest {
 
